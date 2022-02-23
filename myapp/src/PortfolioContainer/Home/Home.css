@@ -1,0 +1,14 @@
+.home-container{
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    min-height:670px;
+    background-image: url("../../Materials/bg.jpg");
+}
+
+.footer-parent{
+    background-image: url("../../Materials/shape-bg.png");
+    height: 130px;
+    max-width: 100%;
+    background-size: cover;
+}
