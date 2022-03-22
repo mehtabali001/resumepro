@@ -1,6 +1,6 @@
 import React from 'react';
 import Typical from 'react-typical';
-import ScrollService from '../../../utilities/ScrollService'
+import ScrollService from '../../../utilities/ScrollService';
 import './Profile.css';
 
 export default function Profile() {
@@ -61,11 +61,8 @@ export default function Profile() {
       </div>
       <div className='profile-picture'>
           <div className='profile-picture-background'>
-
           </div>
         </div>
     </div>
-
-
   </div>;
 }
